@@ -1,0 +1,24 @@
+{
+    "obj":"../obj/vase.obj",
+    "output_name":"vase/vase",
+
+    "width":800,
+    "height":800,
+
+    "camera_x":0.0,
+    "camera_y":6.0,
+    "camera_z":-20.0,
+
+    "look_at_x":-10.0,
+    "look_at_y":5.5,
+    "look_at_z":3.0,
+
+    "ambient_light_r": 1.0,
+    "ambient_light_g": 1.0,
+    "ambient_light_b": 1.0,
+
+    "light": true,
+
+    "samples":20000,
+    "batch_size":10
+}

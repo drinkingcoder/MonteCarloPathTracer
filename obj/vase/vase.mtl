@@ -1,0 +1,35 @@
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Chrysanthemum.jpg
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.00 0.00 0.00
+Tf 0.08 0.08 0.08
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 0.01 0.01 0.01
+Ni 1.00
+newmtl phong1SG
+illum 4
+Kd 0.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 0.05 0.05 0.05
+Ni 1.87
+Ks 0.86 0.86 0.86
+Ns 18.00
+newmtl phong2SG
+illum 4
+Kd 1.00 0.00 1.00
+Ka 0.00 0.00 0.00
+Tf 0.03 0.03 0.03
+Ni 1.88
+Ks 1.00 1.00 1.00
+Ns 22.95

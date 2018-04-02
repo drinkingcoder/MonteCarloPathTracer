@@ -1,0 +1,24 @@
+{
+    "obj":"../obj/Toilet.obj",
+    "output_name":"Toilet/Toilet",
+
+    "width":800,
+    "height":800,
+
+    "camera_x":0.0,
+    "camera_y":200.9,
+    "camera_z":-250.0,
+
+    "look_at_x":0.0,
+    "look_at_y":100.8,
+    "look_at_z":3.0,
+
+    "ambient_light_r": 0.6,
+    "ambient_light_g": 0.6,
+    "ambient_light_b": 0.6,
+
+    "light": false,
+
+    "samples":20000,
+    "batch_size":1000
+}

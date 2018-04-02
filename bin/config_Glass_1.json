@@ -1,0 +1,24 @@
+{
+    "obj":"../obj/Glass_1.obj",
+    "output_name":"Glass_1/Glass_1",
+
+    "width":800,
+    "height":800,
+
+    "camera_x":0.0,
+    "camera_y":0.3,
+    "camera_z":0.5,
+
+    "look_at_x":0.0,
+    "look_at_y":0.1,
+    "look_at_z":0.0,
+
+    "ambient_light_r": 0.01,
+    "ambient_light_g": 0.01,
+    "ambient_light_b": 0.01,
+
+    "light": true,
+
+    "samples":20000,
+    "batch_size":1000
+}

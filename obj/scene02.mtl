@@ -1,0 +1,45 @@
+newmtl initialShadingGroup
+illum 4
+Kd 0.78 0.78 0.78
+Ns 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.50 0.50 0.50
+Ke 12 12 12
+Ns 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.50 0.50 0.50
+Ke 12 12 12
+Ns 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.50 0.50 0.50
+Ke 12 12 12
+Ns 1.00
+newmtl lambert5SG
+illum 4
+Kd 0.50 0.50 0.50
+Ke 12 12 12
+Ns 1.00
+newmtl glossy_plane2
+illum 4
+Kd 0.18 0.27 0.52
+Ks 0.98 0.98 0.98
+Ns 1000.00
+newmtl glossy_plane3
+illum 4
+Kd 0.18 0.27 0.52
+Ks 0.98 0.98 0.98
+Ns 300.00
+newmtl glossy_plane4
+illum 4
+Kd 0.18 0.27 0.52
+Ks 0.98 0.98 0.98
+Ns 150.00
+newmtl glossy_plane5
+illum 4
+Kd 0.18 0.27 0.52
+Ks 0.98 0.98 0.98
+Ns 100.00
+

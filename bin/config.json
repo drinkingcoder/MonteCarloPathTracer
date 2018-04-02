@@ -1,0 +1,24 @@
+{
+    "obj":"../obj/scene02.obj",
+    "output_name":"scene02/scene02",
+
+    "width":200,
+    "height":200,
+
+    "camera_x":0.0,
+    "camera_y":10.0,
+    "camera_z":20.0,
+
+    "look_at_x":0.0,
+    "look_at_y":5.5,
+    "look_at_z":3.0,
+
+    "ambient_light_r": 0.0,
+    "ambient_light_g": 0.0,
+    "ambient_light_b": 0.0,
+
+    "light": false,
+
+    "samples":20000,
+    "batch_size":1
+}
